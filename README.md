@@ -1,42 +1,53 @@
-# Hi, I'm Caleb Murithi! 👋  
+#  Software Enthusiast | Code Crafter | Story-Builder
 
-I am a passionate Computer Science student at **Dedan Kimathi University of Technology**, driven by curiosity for technology and a love for writing. My journey involves delving into computer science, exploring new ideas, and sharing insights with the community.  
+I’m Caleb—currently brewing ideas at Dedan Kimathi University of Technology as a Computer Science undergrad.  
+By moonlight, I’m a code crafter in the ALX Software Engineering community—turning late-night coffee ☕ into elegant Python if-statements (and occasional all-nighters 🥲).
 
-![Murithi Gatobu's Stats](https://github-readme-stats.vercel.app/api?username=murithi-gatobu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
-
----
-
-## 🚀 About Me  
-- 🎓 Pursuing a Bachelor's degree in Computer Science at **Dedan Kimathi University of Technology**.  
-- 🌐 Proud member of the **ALX Software Engineering** community, contributing to the tech ecosystem.  
-- 🖥️ Actively learning Software Engineering and building real-world applications.  
+I see code as more than logic—a way to prototype dreams, solve puzzles, and tell your next favorite bug story.
 
 ---
 
-## 💻 Tech Stack  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,tailwind,django,nodejs,postgres,mongodb,git,docker)](https://skillicons.dev)  
+##  About Me
+-  CS Student @ Dedan Kimathi University of Technology  
+-  Powered by curiosity. Occasionally powered by caffeine.  
+-  Member of ALX Software Engineering—learning, building, growing.  
+-  Bug philosophy: every bug is a misunderstood feature… until it breaks the demo 🤷‍♂️  
+-  Git is my steadfast co-pilot (sometimes I even thank it for undoing my mistakes).  
+-  Only software developer in my family = unofficial tech support 😂  
+-  Open to collabs, tech chats, meme drops—just don’t ask me to debug without coffee.
+
+> *“Talk is cheap. Show me the code.”* — Linus Torvalds
 
 ---
 
-## 🌱 Currently Exploring  
-- 🚀 Full Stack Web Development  
-- ⚛️ React + Redux for dynamic front-end experiences  
-- 🧭 React Router for seamless navigation  
-- 🎨 Tailwind CSS for responsive UI design  
-- 🐍 Django for scalable backends  
-- 🗄️ PostgreSQL & MongoDB for efficient data management  
+##  Tech Stack
+**Languages & Web:** JavaScript · Python · Java · HTML5 · CSS3 · React · Redux · Tailwind CSS  
+**Back-end & Frameworks:** Django · Node.js · Flask  
+**Databases:** PostgreSQL · MongoDB · MySQL  
+**Tools & DevOps:** Git · Docker · Kubernetes · Apache Kafka  
+**Extras:** Linux · Firebase · Prometheus · Grafana  
 
 ---
 
-## 🏆 Achievements  
-- 🌟 Completed **ALX Professional Foundations** – acquired multiple professional skills  
+##  GitHub Stats
+![Caleb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mirithi-gatobu&show_icons=true&theme=vue-dark&hide_border=true)  
 
 ---
 
-## 📬 Get in Touch  
-- 🐦 [Twitter](https://x.com/_Murithi_Caleb_)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/caleb-murithi)  
+##  Fun Tech Puns
+- Why do programmers prefer dark mode? Because light attracts bugs 🐛  
+- My code doesn’t always work… but when it does, I’ve probably pushed it by accident.  
+- “I’m not debugging; I’m just carefully removing the ✨ features”  
 
 ---
 
-Thanks for stopping by! 🚀 Let’s connect and explore the fascinating world of technology together.  
+##  Let’s Connect
+| Platform   | Link |
+|------------|------|
+|  Twitter   | [@_Murithi_Caleb_](https://x.com/_Murithi_Caleb_) |
+|  LinkedIn  | [caleb-murithi](https://www.linkedin.com/in/caleb-murithi) |
+
+---
+
+###  Thanks for stopping by!  
+May your commits be clean and your bugs be keepable—because nobody really keeps bugs. Let's code, share, and build together!  
