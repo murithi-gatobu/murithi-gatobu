@@ -22,7 +22,7 @@ and endless Stack Overflow tabs into solutions… eventually.
 
 ## 💻 Tech Stack  
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,java,c,cpp,html,css,react,redux,tailwind,django,flask,nodejs,postgres,mongodb,mysql,git,docker,kubernetes,kafka,linux,firebase,prometheus,grafana&perline=7)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js,python,html,css,react,redux,tailwind,django,flask,nodejs,postgres,mongodb,mysql,git,docker,kubernetes,linux)](https://skillicons.dev)  
 
 ---
 
