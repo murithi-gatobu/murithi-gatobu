@@ -2,7 +2,7 @@
 
 I am a passionate Computer Science student at **Dedan Kimathi University of Technology**, driven by curiosity for technology and a love for writing. My journey involves delving into computer science, exploring new ideas, and sharing insights with the community.  
 
-![Murithi Gatobu's Stats](https://github-readme-stats.vercel.app/api?username=mirithi-gatobu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
+![Murithi Gatobu's Stats](https://github-readme-stats.vercel.app/api?username=murithi-gatobu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
 
 ---
 
