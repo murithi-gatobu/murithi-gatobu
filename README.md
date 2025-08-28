@@ -1,51 +1,42 @@
-Hi, I'm <Caleb Murithi>! 👋
+# Hi, I'm Caleb Murithi! 👋  
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a passionate Computer Science student at **Dedan Kimathi University of Technology**, driven by curiosity for technology and a love for writing. My journey involves delving into computer science, exploring new ideas, and sharing insights with the community.  
 
-![<murithi-gatobu>'s Stats](https://github-readme-stats.vercel.app/api?murithi-gatobu=<murithi-gatobu>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Murithi Gatobu's Stats](https://github-readme-stats.vercel.app/api?username=mirithi-gatobu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
 
-## 🚀 About Me
+---
 
-- 🔭 I'm currently pursuing my Bachelor's degree in Computer Science at Dedan Kimathi University of Technology.
-- 🌐 Proud member of the ALX Softeware Engineering community, contributing to the tech community.
-- 🖥️ Active Software Engineering Learner, building real - world applications using various tools. 
+## 🚀 About Me  
+- 🎓 Pursuing a Bachelor's degree in Computer Science at **Dedan Kimathi University of Technology**.  
+- 🌐 Proud member of the **ALX Software Engineering** community, contributing to the tech ecosystem.  
+- 🖥️ Actively learning Software Engineering and building real-world applications.  
 
+---
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## 💻 Tech Stack  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,tailwind,django,nodejs,postgres,mongodb,git,docker)](https://skillicons.dev)  
 
-## 🌱 Currently Exploring
+---
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL and MongoDB for efficient and scalable database management.
+## 🌱 Currently Exploring  
+- 🚀 Full Stack Web Development  
+- ⚛️ React + Redux for dynamic front-end experiences  
+- 🧭 React Router for seamless navigation  
+- 🎨 Tailwind CSS for responsive UI design  
+- 🐍 Django for scalable backends  
+- 🗄️ PostgreSQL & MongoDB for efficient data management  
 
- ## 🏆 Achievements
+---
 
-- 🌟 Completed ALX Professional Foundations - Acquired multiple Professional Skills.
+## 🏆 Achievements  
+- 🌟 Completed **ALX Professional Foundations** – acquired multiple professional skills  
 
+---
 
-## 📬 Get in Touch
+## 📬 Get in Touch  
+- 🐦 [Twitter](https://x.com/_Murithi_Caleb_)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/caleb-murithi)  
 
-- Connect with me on [Twitter](https://x.com/_Murithi_Caleb_)
-- Connect with me on [LinkedIn](www.linkedin.com/in/caleb-murithi)
+---
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning Backend Technologies. e.g. Django and NodeJ
-- 👯 I’m looking to collaborate on Web development projects
-- 🤔 I’m looking for help with understanding the CLI in depth
-- 💬 Ask me about Blockchain and Cryptocurrencies
-- 📫 How to reach me: DM on LinkedIn @www.linkedin.com/in/caleb-murithi
-- 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: I am the Only Software Developer in my family.
--->
+Thanks for stopping by! 🚀 Let’s connect and explore the fascinating world of technology together.  
