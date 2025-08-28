@@ -12,7 +12,7 @@ and endless Stack Overflow tabs into solutions… eventually.
 🧠 Computer Science Student @ Dedan Kimathi University of Technology (DeKUT)  
 🌐 Proud member of the **ALX Software Engineering** community  
 🚀 Passionate about Full-Stack Web Development & DevOps  
-🤓 Believer that learning never stops — I’m always tinkering, building, breaking, and fixing  
+🤓 Lifelong learner — always tinkering, building, breaking, and fixing  
 🛠️ Git is my sidekick · Ctrl + Z is my emergency escape hatch  
 😂 Only developer in my family = free lifetime tech support plan for everyone at home  
 
@@ -22,7 +22,7 @@ and endless Stack Overflow tabs into solutions… eventually.
 
 ## 💻 Tech Stack  
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,html,css,react,redux,tailwind,django,flask,nodejs,postgres,mongodb,mysql,git,docker,kubernetes,linux)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js,python,html,css,react,redux,tailwind,django,flask,nodejs,postgres,mongodb,mysql,git,docker,kubernetes,linux&perline=7)](https://skillicons.dev)  
 
 ---
 
@@ -31,20 +31,14 @@ and endless Stack Overflow tabs into solutions… eventually.
 
 ---
 
-## 🤹 Fun Tech Puns & Jokes  
-- Why do programmers prefer dark mode? Because light attracts bugs 🐞  
-- I told my computer I needed a break… now it won’t stop sending me Kit-Kats 🍫  
-- My code works 50% of the time — the other 50% is when someone is watching 👀  
-- Debugging: being the detective in a crime where you are also the murderer 🔍💀  
-- “It’s not a bug… it’s an undocumented feature.” ™️  
-
----
-
 ## 📬 Let’s Connect!  
-💼 [LinkedIn](https://www.linkedin.com/in/caleb-murithi) · 🐦 [Twitter](https://x.com/_Murithi_Caleb_)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caleb-murithi)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_Murithi_Caleb_)  
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/murithi-gatobu)  
 
 ---
 
 ✨ Thanks for stopping by!  
 May your commits be clean, your bugs be few, and your coffee always be strong ☕🚀  
-Let’s build, break, laugh, and innovate together 💡🔥  
+Let’s build, learn, and innovate together 💡🔥  
