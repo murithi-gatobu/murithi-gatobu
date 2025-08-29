@@ -1,4 +1,5 @@
-# 👨‍💻 Hey there, I'm Murithi — your friendly neighborhood bug wrangler 🐛✨  
+# 👨‍💻 Hey there,😊 I'm Murithi  
+Your friendly neighborhood bug wrangler 🐛✨  
 
 ☕ Coffee-powered · 💻 Code-obsessed · 🚀 Dreaming in JavaScript and Python  
 Currently in a love-hate relationship with my laptop (don’t tell my IDE 😅).  
